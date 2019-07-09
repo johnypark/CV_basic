@@ -5,6 +5,7 @@ https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorial
 
 
 ### 2. Hitrogram streching
+- https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_histograms/py_histogram_equalization/py_histogram_equalization.html#histogram-equalization
 
 
 ### 3. Histogram features
