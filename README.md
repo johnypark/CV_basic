@@ -4,7 +4,7 @@ This repository is for beginners in computer vision and image processing.
 ## 1. Quantization methods 
 
 
-## 2. Hitrogram Streching
+## 2. Hitrogram streching
 
 
 ## 3. Histogram features
