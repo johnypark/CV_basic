@@ -22,6 +22,7 @@ This repository is for beginners in computer vision and image processing.
 
 #### Implementation
 - What if ROI is non-rectangular? https://stackoverflow.com/questions/40703086/python-taking-the-glcm-of-a-non-rectangular-region
+- What if ROI is non-rectangular? NaN in matlab https://stackoverflow.com/questions/8237000/the-method-of-calculate-the-glcm-of-a-specific-point-in-a-image
 
 ### 4. Local descriptors
 - (2010) Texture Classification by Modeling Joint Distributions of Local Patterns With Gaussian Mixtures
