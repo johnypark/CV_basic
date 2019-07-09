@@ -20,6 +20,9 @@ This repository is for beginners in computer vision and image processing.
 - Implementation of User descriptor - Araujo et al. 2018. https://ieeexplore.ieee.org/abstract/document/8489705
 - Implementation of User descriptor 2 - Araujo et al. 2018. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8612847
 
+#### Implementation
+- What if ROI is non-rectangular? https://stackoverflow.com/questions/40703086/python-taking-the-glcm-of-a-non-rectangular-region
+
 ### 4. Local descriptors
 - (2010) Texture Classification by Modeling Joint Distributions of Local Patterns With Gaussian Mixtures
 - (2018) local-descriptors-for-image-classification https://github.com/vdevmcitylp/local-descriptors-for-image-classification
