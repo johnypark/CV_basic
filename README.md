@@ -21,4 +21,4 @@ This repository is for beginners in computer vision and image processing.
 - Implementation of User descriptor 2 - Araujo et al. 2018. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8612847
 
 ### 4. Local descriptors
-- local-descriptors-for-image-classification https://vdevmcitylp.github.io/local-descriptors-for-image-classification/
+- local-descriptors-for-image-classification https://github.com/vdevmcitylp/local-descriptors-for-image-classification
