@@ -1,16 +1,16 @@
-# Computer Vision Fundamentals
+## Computer Vision Fundamentals
 This repository is for beginners in computer vision and image processing. 
 
-## 1. Quantization methods 
+### 1. Quantization methods 
 
 
-## 2. Hitrogram streching
+### 2. Hitrogram streching
 
 
-## 3. Histogram features
+### 3. Histogram features
 
 
-## 4. Grey-level Co-occurence Matrix 
+### 4. Grey-level Co-occurence Matrix 
 #### Sources for computing GLCM and GLCM features 
 ##### scikit image https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_glcm.html
 
@@ -19,4 +19,4 @@ This repository is for beginners in computer vision and image processing.
 ##### Unser descriptor - Sum and difference histogrames O(n)
 ##### Implementation of User descriptor - Araujo et al. 2018. https://ieeexplore.ieee.org/abstract/document/8489705
 ##### Implementation of User descriptor 2 - Araujo et al. 2018. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8612847
-##### 
+##### local-descriptors-for-image-classification https://vdevmcitylp.github.io/local-descriptors-for-image-classification/
