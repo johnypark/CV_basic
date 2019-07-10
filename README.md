@@ -1,6 +1,7 @@
 ## Computer Vision Fundamentals
 This repository is for beginners in computer vision and image processing. 
-https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+- opencv https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+- mahotas https://mahotas.readthedocs.io/en/latest/
 ### 1. Quantization methods 
 
 
