@@ -15,6 +15,7 @@ This repository is for beginners in computer vision and image processing.
 ### 4. Grey-level Co-occurence Matrix 
 #### Sources for computing GLCM and GLCM features 
 - scikit image https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_glcm.html
+- 'glcm' R package
 
 #### Theoretic basis and improvement for computing time
 - Haralick original paper O(n^2)
