@@ -30,3 +30,6 @@ This repository is for beginners in computer vision and image processing.
 ### 4. Local descriptors
 - (2010) Texture Classification by Modeling Joint Distributions of Local Patterns With Gaussian Mixtures
 - (2018) local-descriptors-for-image-classification https://github.com/vdevmcitylp/local-descriptors-for-image-classification
+
+### 5. Histogram matching
+https://scikit-image.org/docs/dev/auto_examples/transform/plot_histogram_matching.html
